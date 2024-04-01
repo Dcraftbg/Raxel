@@ -12,8 +12,8 @@ This project depends on:
 - freetype-rs - a crate for linking with freetype. While I don't completely agree with the idea that FreeType needs to have any extra code than just a link file, it is still a very nice library if you wanna use 'safe' rust.
 
 But it also uses stuff like:
-- Ioveska Font - a really cool font, especially if you're making a code editor.
-
+- Iosevka Font - a really cool font, especially if you're making a code editor.
+- Arial Font - a nice and clean looking font
 On my TODO list is getting some more advanced features into the editor, and hopefully at some point moving some of Raxels features into their own crate for others to use.
 Everything is under the MIT license, so feel free to use and explore the codebase however you like.
 
