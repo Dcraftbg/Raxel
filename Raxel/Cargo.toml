@@ -1,0 +1,13 @@
+[package]
+name = "Raxel"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+stb_image = { path = "../stb_image"}
+beryllium = "0.13.3"
+bytemuck = "1.14.1"
+gl33 = "0.2.1"
+freetype-rs = "0.35.0"

@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+   "Raxel",
+   "stb_image",
+]
+resolver = "1"
